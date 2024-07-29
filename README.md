@@ -35,7 +35,7 @@ CountrySorter is a Java program that sorts an `ArrayList<Country>` in decreasing
 
     ```sh
     git clone https://github.com/Mark-Langston/Country_Sorter.git
-    cd CountrySorter
+    cd Country_Sorter
     ```
 
 2. **Compile the Java files:**
